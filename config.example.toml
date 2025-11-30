@@ -51,7 +51,7 @@ ollama_model_name = ""
 # Get your API key at https://platform.openai.com/api-keys
 openai_api_key = ""
 # No need to set it unless you want to use your own proxy
-openai_base_url = ""
+openai_base_url = "https://api.gptsapi.net/v1"
 # Check your available models at https://platform.openai.com/account/limits
 openai_model_name = "gpt-4o-mini"
 
