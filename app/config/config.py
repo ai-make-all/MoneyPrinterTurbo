@@ -62,7 +62,8 @@ listen_port = _cfg.get("listen_port", 8080)
 project_name = _cfg.get("project_name", "MoneyPrinterTurbo")
 project_description = _cfg.get(
     "project_description",
-    "<a href='https://github.com/harry0703/MoneyPrinterTurbo'>https://github.com/harry0703/MoneyPrinterTurbo</a>",
+    #"<a href='https://github.com/harry0703/MoneyPrinterTurbo'>https://github.com/harry0703/MoneyPrinterTurbo</a>",
+    "<a href='https://github.com/ai-make-all/MoneyPrinterTurbo'>https://github.com/ai-make-all/MoneyPrinterTurbo</a>",
 )
 project_version = _cfg.get("project_version", "1.2.6")
 reload_debug = False
